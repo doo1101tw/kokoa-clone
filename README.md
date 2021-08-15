@@ -1,3 +1,3 @@
 # Kokoa Clone Update
 
-HTML, CSS course
+HTML, CSS course (2021.8)
